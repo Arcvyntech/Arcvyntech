@@ -47,7 +47,7 @@ Our work is guided by four core principles:
 
 ## Commitment
 
-We are committed to building technologies that are secure, scalable, and future-ready—helping organizations navigate change with confidence and create opportunities for growth.
+We are committed to building technologies that are secure, scalable, and future-ready helping organizations navigate change with confidence and create opportunities for growth.
 
 ---
 
